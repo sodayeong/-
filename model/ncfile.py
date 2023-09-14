@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 
 
 # 파일 인포 조회
-path = 'C:/Users/user/Downloads/샘플데이터'
+path = 'C:/Users/user/Desktop/competition/샘플데이터'
 os.chdir(path)
 os.getcwd()
 
